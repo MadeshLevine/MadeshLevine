@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2575fc" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MadeshLevine&style=for-the-badge&color=2575fc" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/madeshm20082007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:madeshrasiga20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
