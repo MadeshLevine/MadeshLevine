@@ -45,7 +45,7 @@
 
 **Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 
 </div>
 
